@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Schwartz Lab</title>
+    <link>http://nimrodlab.github.io/categories/</link>
+    <description>Recent content in Categories on Schwartz Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nimrod Schwartz</copyright>
+    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Design</title>
+      <link>http://nimrodlab.github.io/categories/design/</link>
+      <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
+      
+      <guid>http://nimrodlab.github.io/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>http://nimrodlab.github.io/categories/general/</link>
+      <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
+      
+      <guid>http://nimrodlab.github.io/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://nimrodlab.github.io/categories/golang/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      
+      <guid>http://nimrodlab.github.io/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://nimrodlab.github.io/categories/programming/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      
+      <guid>http://nimrodlab.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://nimrodlab.github.io/categories/project/</link>
+      <pubDate>Wed, 19 Oct 2016 22:35:00 +0900</pubDate>
+      
+      <guid>http://nimrodlab.github.io/categories/project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
